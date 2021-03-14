@@ -1,0 +1,2 @@
+# 6thcc
+learning git
